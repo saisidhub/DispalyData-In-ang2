@@ -1,0 +1,74 @@
+[
+  {
+    "id": 11,
+    "name": "saikumar",
+    "class": "11",
+    "rollno" :"12345"
+  },
+  {
+    "id": 12,
+    "name": "ravikumar",
+    "class": "3",
+      "rollno" :"266595"
+  },
+  {
+    "id": 13,
+    "name": "dinesh",
+    "class": "2",
+      "rollno" :"569845"
+  },
+  {
+    "id": 14,
+    "name": "pratemesh",
+    "class": "1",
+      "rollno" :"129878"
+  },
+  {
+    "id": 15,
+    "name": "vasavi",
+    "class": "5",
+      "rollno" :"564821"
+  },
+  {
+    "id": 16,
+    "name": "vasista",
+    "class": "6",
+      "rollno" :"021548"
+  },
+  {
+    "id": 17,
+    "name": "shankar",
+    "class": "4",
+      "rollno" :"256314"
+  },
+  {
+    "id": 18,
+    "name": "Kylo Ren",
+    "class": "7",
+      "rollno" :"598945"
+  },
+  {
+    "id": 19,
+    "name": "kishore",
+    "class": "8",
+      "rollno" :"235645"
+  },
+  {
+    "id": 20,
+    "name": "pallavi",
+    "class": "5",
+      "rollno" :"659878"
+  },
+  {
+    "id": 21,
+    "name": "satvika",
+    "class": "9",
+      "rollno" :"567845"
+  },
+  {
+    "id": 22,
+    "name": "amulya",
+    "class": "12",
+      "rollno" :"235689"
+  }
+]
